@@ -1,0 +1,27 @@
+_repo: Exercises-in-Knitting_21032
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21032-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mee, Cornelia
+    gutenberg_agent_id: '9683'
+    url: http://www.gutenberg.org/2009/agents/9683
+description: ''
+gutenberg_bookshelf:
+- Crafts
+- Technology
+gutenberg_issued: '2007-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Knitting -- Patterns'
+title: Exercises in Knitting
+url: http://www.gutenberg.org/ebooks/21032
